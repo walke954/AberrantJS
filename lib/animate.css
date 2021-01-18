@@ -1,0 +1,6 @@
+.pane-container {
+	height: 100vh;
+	background-color: #111;
+	position: sticky;
+	top: 0px;
+}
